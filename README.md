@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 
+My name is Andrew. 
+I'm a third-year at UBC who is extremely passionate and curious about learning new skillsets and improving in various areas.
 
 <!--
 **Andrew-Andrew0302/Andrew-Andrew0302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
